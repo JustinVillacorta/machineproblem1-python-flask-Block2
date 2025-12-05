@@ -1,3 +1,3 @@
 print("JUSTIN VILLACORTA")
 print("JERICHO GARCIA")
-print("RYAN QUINTO")
+print("RYAN Q. QUINTO")
