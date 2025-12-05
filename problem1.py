@@ -1,2 +1,4 @@
 print("JUSTIN VILLACORTA")
 print("LAWRENCE ESTIGOY")
+print("JERICHO GARCIA")
+print("RYAN Q. QUINTO")
